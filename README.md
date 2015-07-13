@@ -30,6 +30,6 @@ Here we are showing Rest API services for PumpCavitation and Car tenants.
 How to use
 ------------
 - Generate war file using below command:
-- mvn clean install -DskipTests=true
+    - mvn clean install -DskipTests=true
 - Deploy generated "foghorn-rest.war" from target directory  into /opt/jetty/webapps
 
