@@ -29,4 +29,6 @@ Here we are showing Rest API services for PumpCavitation and Car tenants.
 
 How to use
 ------------
-Generate war file from eclipse and deploy it in /opt/jetty/webapps
+- Generate war file using below command then deploy generated "foghorn-rest.war" into /opt/jetty/webapps
+-- mvn clean install -DskipTests=true
+
