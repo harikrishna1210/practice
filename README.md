@@ -19,7 +19,8 @@ How to use
 ------------
 - Generate jar file using below command:
 	-  mvn clean install -DskipTests=true
-- Copy generated " spark-streaming-jar-with-dependencies.jar " from target directory into /opt/foghorn/foghorn-streaming.jar
+- Copy generated "spark-streaming-jar-with-dependencies.jar" from target directory into /opt/foghorn/foghorn-streaming.jar
+	-  target/spark-streaming-jar-with-dependencies.jar /opt/foghorn/foghorn-streaming.jar
 - service sparkstreaming start
 
 
