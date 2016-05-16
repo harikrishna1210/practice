@@ -17,7 +17,7 @@ Steps to Run Spiders:
 - cd data-ingestion/discussion_apple_crawl
 - DiscussionAppleCrawl:
 	- nohup scrapy crawl discussions1 > discussions1.log &
-	- After execution of DiscussionAppleCrawl spider, we will have JSON objects of base urls and it's reply content pagination urls in text file (discussions1.log) 
+	- After execution of above step, we will have JSON objects of base urls and it's reply content pagination urls in text file (discussions1.log) 
     	- Example Base URL: https://discussions.apple.com/thread/7309088
     	- Example Pagination URL: https://discussions.apple.com/thread/7309088?start=15&tstart=0
 
