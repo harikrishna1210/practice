@@ -51,11 +51,11 @@ var incident_ui_url = 'http://52.43.240.50:3000/#/incidents/';
 - *Your bot should be online! Within Slack, send it a quick direct message to say hi. It should say hello back!*
     - Sample Chat format
         - neva i need to format my dis
-	- neva what is my timezone
-	- neva how can i reset my password?
-	- neva How can I buy music?
-	- neva How can I clean my hard disk?
-	- neva Can I print to a printer NOT USB connected directly to an Airport Extreme Base Station?
-	- neva HT201659 I have a new bank card, how can I change the card details
-	- neva HT201322 My slotomania app disappeared and I did not hide it. It shows installed but don't know where it's at.
+	 - neva what is my timezone
+	 - neva how can i reset my password?
+	 - neva How can I buy music?
+	 - neva How can I clean my hard disk?
+	 - neva Can I print to a printer NOT USB connected directly to an Airport Extreme Base Station?
+	 - neva HT201659 I have a new bank card, how can I change the card details
+	 - neva HT201322 My slotomania app disappeared and I did not hide it. It shows installed but don't know where it's at.
         - neva QuickCam Pro 9000 for Mac
